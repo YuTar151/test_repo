@@ -9,4 +9,5 @@ b = input("Введіть інше число")
 
 
 
-def test_function()
+def test_function(g):
+    return g * 196
