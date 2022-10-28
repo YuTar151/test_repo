@@ -2,7 +2,7 @@
 def mane_function(a, b):
     return a * b**2
 
-a = input("Введіть число")
-b = input("Введіть інше число")
+a = int(input("Введіть число: "))
+b = int(input("Введіть інше число: "))
 
-mane_function(a, b)
+print(mane_function(a, b))
