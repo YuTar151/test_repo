@@ -11,3 +11,5 @@ b = input("Введіть інше число")
 
 def test_function(g):
     return g * 196
+
+print(test_function(5))
