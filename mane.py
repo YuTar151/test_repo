@@ -4,3 +4,9 @@ def mane_function(a, b):
 
 a = input("Введіть число")
 b = input("Введіть інше число")
+
+
+
+
+
+def test_function()
